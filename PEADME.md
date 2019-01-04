@@ -1,1 +1,3 @@
 "# photo wall" 
+The photo wall edited by CSS has the features of enlarging and shrinking, 
+border shadow, offset and inclination, enlarging and shrinking, etc.......
